@@ -1,0 +1,15 @@
+/Users/user/Desktop/workspace/dotnet/SortingAlgorithms/SortingAlgorithms/bin/Debug/net6.0/SortingAlgorithms
+/Users/user/Desktop/workspace/dotnet/SortingAlgorithms/SortingAlgorithms/bin/Debug/net6.0/SortingAlgorithms.deps.json
+/Users/user/Desktop/workspace/dotnet/SortingAlgorithms/SortingAlgorithms/bin/Debug/net6.0/SortingAlgorithms.runtimeconfig.json
+/Users/user/Desktop/workspace/dotnet/SortingAlgorithms/SortingAlgorithms/bin/Debug/net6.0/SortingAlgorithms.dll
+/Users/user/Desktop/workspace/dotnet/SortingAlgorithms/SortingAlgorithms/bin/Debug/net6.0/ref/SortingAlgorithms.dll
+/Users/user/Desktop/workspace/dotnet/SortingAlgorithms/SortingAlgorithms/bin/Debug/net6.0/SortingAlgorithms.pdb
+/Users/user/Desktop/workspace/dotnet/SortingAlgorithms/SortingAlgorithms/obj/Debug/net6.0/SortingAlgorithms.csproj.AssemblyReference.cache
+/Users/user/Desktop/workspace/dotnet/SortingAlgorithms/SortingAlgorithms/obj/Debug/net6.0/SortingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/workspace/dotnet/SortingAlgorithms/SortingAlgorithms/obj/Debug/net6.0/SortingAlgorithms.AssemblyInfoInputs.cache
+/Users/user/Desktop/workspace/dotnet/SortingAlgorithms/SortingAlgorithms/obj/Debug/net6.0/SortingAlgorithms.AssemblyInfo.cs
+/Users/user/Desktop/workspace/dotnet/SortingAlgorithms/SortingAlgorithms/obj/Debug/net6.0/SortingAlgorithms.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/workspace/dotnet/SortingAlgorithms/SortingAlgorithms/obj/Debug/net6.0/SortingAlgorithms.dll
+/Users/user/Desktop/workspace/dotnet/SortingAlgorithms/SortingAlgorithms/obj/Debug/net6.0/ref/SortingAlgorithms.dll
+/Users/user/Desktop/workspace/dotnet/SortingAlgorithms/SortingAlgorithms/obj/Debug/net6.0/SortingAlgorithms.pdb
+/Users/user/Desktop/workspace/dotnet/SortingAlgorithms/SortingAlgorithms/obj/Debug/net6.0/SortingAlgorithms.genruntimeconfig.cache
